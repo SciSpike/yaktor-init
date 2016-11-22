@@ -1,4 +1,7 @@
 # init.yaktor.io
+
+> NOTE: Please report issues at https://github.com/SciSpike/yaktor-issues/issues.
+
 This repo contains the source content for http://init.yaktor.io, which is intended to provide an easy way for folks to initialize a new Yaktor application with `curl` (or `wget`), piping the output to `sh`.
 
 ## Technologies Supported
