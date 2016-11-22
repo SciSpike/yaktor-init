@@ -19,3 +19,8 @@ to get the same result.
 The idea here is that any script will be named for the technology mapping supported.
 For example, the technology mapping for Node.js is called `node`, so the init script is placed in a file at the root called `node`.
 Any future technology mappings should be named accordingly and placed in this repo's root directory.
+
+> NOTE: Please never change this site to use redirects.
+That would complicate the use of `curl` & `wget`, requiring additional flags.
+The whole purpose of this site is to make it as brain-dead easy to remember and to execute.
+Redirects would complicate the invocation & be more to remember.
