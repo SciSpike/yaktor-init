@@ -1,0 +1,8 @@
+.project
+.metadata
+.settings
+.DS_Store
+*~
+*.swp
+*.log
+.idea/
